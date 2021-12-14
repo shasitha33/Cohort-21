@@ -1,1 +1,0 @@
-This repository is made for Fellowship.Ai challenge to use XLNet for Text classification
